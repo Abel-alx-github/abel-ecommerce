@@ -22,6 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
-/src/firebaseConfig
-/src/pages/Contact/
+#ignore .env files
+.env

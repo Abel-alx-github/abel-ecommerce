@@ -1,0 +1,23 @@
+.card {
+    // width: 50%;
+    max-width: 100%;
+    padding: 1rem;
+    border: 1px solid var(--light-blue);
+    margin: auto;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 3px #ccc;
+
+  }
+  h3 {
+    font-weight: 300;
+  }
+  
+  .text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    h3 {
+      color: var(--color-danger);
+    }
+  }
+  
