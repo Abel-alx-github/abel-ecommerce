@@ -1,6 +1,8 @@
-# Zita Shop
+['Visit Zita Shop Here'](https://zitamillanomarket.web.app/)
+
 ![zita shop](https://github.com/user-attachments/assets/3afe2de4-fecd-48ac-8ae1-f44dbc773074)
-['zita shop'](https://zitamillanomarket.web.app/)
+# Zita Shop
+
 Zita Shop is a full-featured eCommerce web application built with React, SCSS, Redux, and Firebase. It provides a seamless shopping experience with features like product listings, a shopping cart, and secure payment processing via Stripe. The backend is managed using Express and hosted on Heroku.
 
 ## Table of Contents
