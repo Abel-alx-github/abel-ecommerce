@@ -130,7 +130,9 @@ Navigate to http://localhost:3000 in your browser.
 
 ## Deployment
 To deploy the backend, follow these steps:
+Push your code to Heroku:
 ```bash
+
 git add .
 git commit -m "Deploy to Heroku"
 git push heroku main   
@@ -142,5 +144,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-Push your code to Heroku:
+
 
