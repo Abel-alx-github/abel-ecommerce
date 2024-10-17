@@ -39,7 +39,7 @@ Zita Shop is a full-featured eCommerce web application built with React, SCSS, R
   - Heroku (Backend hosting)
 
 ## Folder Structure
-
+```
 /
 ├── .dist/
 ├── .firebase/
@@ -86,7 +86,7 @@ Zita Shop is a full-featured eCommerce web application built with React, SCSS, R
 ├── firebase.json
 ├── package-lock.json
 └── server.js
-
+```
 ## Installation
 
 1. Clone the repository:
